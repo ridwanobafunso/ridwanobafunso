@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![](https://domain.com/photo.png "Obafunso Ridwan Adebayo Photo")](https://twitter.com/ridwanobafunso "@ridwanobafunso on Twitter")
+
+### Hi there 👋
 
 All I do is software engineering. 🤕 Oh my bads. I'm **ridwan**, an engineer from Nigeria 🇳🇬 who is passionate and love to work with technology. 
 
