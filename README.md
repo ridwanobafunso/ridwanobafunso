@@ -4,7 +4,7 @@
 
 All I do is software engineering. 🤕 Oh my bads. I'm **ridwan**, an engineer from Nigeria 🇳🇬 who is passionate and love to work with technology. 
 
-I'm currently working as **software engineer** at [Xpratech Incorporated](https://xpratech.com) but I'm open to better offer. If there is any, please DM ✉️me on [Twitter](https://twitter.com/ridwanobafunso).
+I'm currently working as **software engineer** at [Xpratech Incorporated](https://xpratech.com.ng) but I'm open to better offer. If there is any, please DM ✉️me on [Twitter](https://twitter.com/ridwanobafunso).
 
 Shout out 📣 to all my senior software engineers in the industry who do not care about clean code, performance, architecture, automated testing, e.t.c but **do you** 👀? YES I do 🤗. I salute you all 🥂.
 
