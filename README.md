@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-All I do is software engineering. 🤕 Oh my bads. I'm **Ridwan**, an engineer from Nigeria 🇳🇬 who is passionate and love to work with technology. 
+All I do is software engineering. 🤕 Oh my bad. I'm **Ridwan**, an engineer from Nigeria 🇳🇬 who is passionate and love to work with technology. 
 
 I'm currently working as **software engineer** at [Xpratech Incorporated](https://xpratech.com.ng) but I'm open to better offer. If there is any, please DM ✉️me on [Twitter](https://twitter.com/ridwanobafunso).
 
