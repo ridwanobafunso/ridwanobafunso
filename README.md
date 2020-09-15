@@ -1,4 +1,4 @@
-[![](https://domain.com/photo.png "Obafunso Ridwan Adebayo Photo")](https://twitter.com/ridwanobafunso "@ridwanobafunso on Twitter")
+[![](https://github.com/ridwanobafunso/ridwanobafunso/raw/master/Screenshot_20200915-183352_1600191353095_1600191443484.jpg "Obafunso Ridwan Adebayo Photo")](https://twitter.com/ridwanobafunso "@ridwanobafunso on Twitter")
 
 ### Hi there 👋
 
