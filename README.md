@@ -6,7 +6,7 @@ All I do is software engineering. 🤕 Oh my bad. I'm **Ridwan**, an engineer fr
 
 I'm currently working as **software engineer** at [Xpratech Incorporated](https://xpratech.com.ng) but I'm open to better offer. If there is any, please DM ✉️ me on [Twitter](https://twitter.com/ridwanobafunso).
 
-Shout out 📣 to all my senior software engineers in the industry who do not care about clean code, performance, architecture, automated testing, e.t.c but **do you** 👀? YES I do 🤗. I salute you all 🥂.
+Shout out 📣 to all my senior software engineers in the industry who do not care about clean code, performance, architecture, automated testing, e.t.c ~~but **do you** 👀? YES I do 🤗~~. I salute you all 🥂.
 
 If you really want to know almost all about me 🤓 (my biography, technical/soft skills, portfolio, roadmap, open source projects, awards & achievements). I suggested you check my online curriculum vitae [here](https://ridwanobafunso.com "Obafunso Ridwan CV").
 
