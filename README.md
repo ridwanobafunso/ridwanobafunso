@@ -8,7 +8,7 @@ I'm currently working as **software engineer** at [Xpratech Incorporated](https:
 
 Shout out 📣 to all my senior software engineers in the industry who do not care about clean code, performance, architecture, automated testing, e.t.c ~~but **do you** 👀? YES I do 🤗~~. I salute you all 🥂.
 
-Want an outstanding & brilliant engineer to join your tech team? DM ✉️ me on [Twitter](https://twitter.com/ridwanobafunso) or shoot me an e-mail 📧 at <obafunsoadebayo17@gmail.com>. 
+Want an outstanding & brilliant engineer to join your team? DM ✉️ me on [Twitter](https://twitter.com/ridwanobafunso) or shoot me an e-mail 📧 at <obafunsoadebayo17@gmail.com>. 
 
 
 Thanks for reading ❤❤❤
